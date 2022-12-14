@@ -36,12 +36,12 @@
             android:text="C'est une application éditée par le Groupe CERCO  Côte d'Ivoire, permettant de scanner les pièces  d'identité (CNI, Passeport, Permis de conduire et  Cartes d'étudiants) afin de mieux enregistrer les  visiteurs et membres d'une organisation, mettant  ainsi fin aux registres papiers et la charge pénible  qui l'accompagne."
             android:textColor="@color/white"
             android:textSize="16sp" />
-    </FrameLayout>
 
-    <TextView
-        android:id="@+id/textView34"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="TextView" />
+        <TextView
+            android:id="@+id/textView35"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="TextView" />
+    </FrameLayout>
 
 </RelativeLayout>
